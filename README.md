@@ -1,12 +1,12 @@
-### Description
+## Description
 
 This is an unfinished webscraping project deployed with Django. You can list the name, price, link of products and make quick compaarison from a website
 
-## Set up
+#### Set up
 
 first you need download the files, and then install django, and dependencies (beautifulsopu etc.) Your main functions are in utils.py, wiev.py is just doing the request
 
-## Running
+#### Running
 
 you just come to correct directory (in the first mscraper folder)
 
